@@ -4,7 +4,7 @@
 # ==============================================================================
 n, m = map(int, input().split()) # n: 나무 수, m: 필요 나무 길이
 trees = list(map(int, input().split())) # 나무들의 높이
-s, e = 1, sum(trees)
+s, e = 1, sum(trees) # 속도: sum(trees)가 max(trees)보다 빠름
 
 while s <= e:
     mid = (s+e)//2
