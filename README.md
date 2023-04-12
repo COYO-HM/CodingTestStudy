@@ -8,5 +8,5 @@
 ## :two: DFS, BFS
 - [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)
 
-## :three: Implementation
+## :three: Dynamic Programming
 - [스티커 모으기 2](https://school.programmers.co.kr/learn/courses/30/lessons/12971)
