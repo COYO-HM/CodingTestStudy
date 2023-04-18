@@ -7,6 +7,7 @@
 
 ## :two: DFS, BFS
 - [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)
+- [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)
 
 ## :three: Dynamic Programming
 - [스티커 모으기 2](https://school.programmers.co.kr/learn/courses/30/lessons/12971)
@@ -16,4 +17,4 @@
 - [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)
 
 ---
-- [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)
+- [2 x n 타일링](https://www.acmicpc.net/problem/11726) => DP
