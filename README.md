@@ -17,6 +17,7 @@
 - [이친수](https://www.acmicpc.net/problem/2193)
 - [1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990)
 - [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
+- [연속합](https://www.acmicpc.net/problem/1912)
 
 ## :four: Dijkstra Algorithm
 - [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)
