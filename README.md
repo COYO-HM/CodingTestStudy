@@ -1,5 +1,5 @@
 # :crescent_moon: Coding Test Study
-2023.04.08 ~ing
+### 2023.04.08 ~ing
 
 ## :one: Binary Search
 - [나무 자르기](https://www.acmicpc.net/problem/2805)
@@ -24,4 +24,6 @@
 
 ## :five: Brute Force
 - [수들의 합2](https://www.acmicpc.net/problem/2003)
-- [덩치](https://www.acmicpc.net/problem/7568) 금요일!
+
+## 📁Before
+- [덩치](https://www.acmicpc.net/problem/7568)
