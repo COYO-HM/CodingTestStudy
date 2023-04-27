@@ -23,3 +23,4 @@
 - [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)
 
 ## :five: Brute Force
+- [수들의 합2](https://www.acmicpc.net/problem/2003)
