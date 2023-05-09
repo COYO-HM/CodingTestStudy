@@ -25,10 +25,10 @@
 
 ## :five: Brute Force
 - [수들의 합2](https://www.acmicpc.net/problem/2003)
+- [덩치](https://www.acmicpc.net/problem/7568)
 
 ## :six: Greedy Algorithm
 - [체인](https://www.acmicpc.net/problem/2785)
 
 
 ## 📁Before
-- [덩치](https://www.acmicpc.net/problem/7568)
