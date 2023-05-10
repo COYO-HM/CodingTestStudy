@@ -27,9 +27,11 @@
 ## :five: Brute Force
 - [수들의 합2](https://www.acmicpc.net/problem/2003)
 - [덩치](https://www.acmicpc.net/problem/7568)
+- [사탕 게임](https://www.acmicpc.net/problem/3085)
 
 ## :six: Greedy Algorithm
 - [체인](https://www.acmicpc.net/problem/2785)
 
 
 ## 📁Before
+- [쉬운 계단 수](https://www.acmicpc.net/problem/10844)
