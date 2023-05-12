@@ -20,6 +20,7 @@
 - [연속합](https://www.acmicpc.net/problem/1912)
 - [제곱수의 합](https://www.acmicpc.net/problem/1699)
 - [돌 게임](https://www.acmicpc.net/problem/9655)
+- [쉬운 계단 수](https://www.acmicpc.net/problem/10844)
 
 ## :four: Dijkstra Algorithm
 - [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)
@@ -34,4 +35,3 @@
 
 
 ## 📁Before
-- [쉬운 계단 수](https://www.acmicpc.net/problem/10844)
