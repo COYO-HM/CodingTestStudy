@@ -29,6 +29,7 @@
 - [수들의 합2](https://www.acmicpc.net/problem/2003)
 - [덩치](https://www.acmicpc.net/problem/7568)
 - [사탕 게임](https://www.acmicpc.net/problem/3085)
+- [카잉 달력](https://www.acmicpc.net/problem/6064)
 
 ## :six: Greedy Algorithm
 - [체인](https://www.acmicpc.net/problem/2785)
