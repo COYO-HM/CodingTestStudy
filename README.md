@@ -36,4 +36,8 @@
 
 ## 7️⃣ Implementation
 - [그룹 단어 체커](https://www.acmicpc.net/problem/1316)
+
 ## 📁Before
+- [아기 상어 2](https://www.acmicpc.net/problem/17086)
+- [마라톤 1](https://www.acmicpc.net/problem/10655)
+- [근손실](https://www.acmicpc.net/problem/18429)
