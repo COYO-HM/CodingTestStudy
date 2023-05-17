@@ -8,6 +8,7 @@
 ## :two: DFS, BFS
 - [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)
 - [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)
+- [아기 상어 2](https://www.acmicpc.net/problem/17086)
 
 ## :three: Dynamic Programming
 - [스티커 모으기 2](https://school.programmers.co.kr/learn/courses/30/lessons/12971)
@@ -38,6 +39,5 @@
 - [그룹 단어 체커](https://www.acmicpc.net/problem/1316)
 
 ## 📁Before
-- [아기 상어 2](https://www.acmicpc.net/problem/17086)
 - [마라톤 1](https://www.acmicpc.net/problem/10655)
 - [근손실](https://www.acmicpc.net/problem/18429)
