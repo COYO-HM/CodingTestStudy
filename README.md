@@ -31,6 +31,7 @@
 - [덩치](https://www.acmicpc.net/problem/7568)
 - [사탕 게임](https://www.acmicpc.net/problem/3085)
 - [카잉 달력](https://www.acmicpc.net/problem/6064)
+- [마라톤 1](https://www.acmicpc.net/problem/10655)
 
 ## :six: Greedy Algorithm
 - [체인](https://www.acmicpc.net/problem/2785)
@@ -39,5 +40,4 @@
 - [그룹 단어 체커](https://www.acmicpc.net/problem/1316)
 
 ## 📁Before
-- [마라톤 1](https://www.acmicpc.net/problem/10655)
 - [근손실](https://www.acmicpc.net/problem/18429)
