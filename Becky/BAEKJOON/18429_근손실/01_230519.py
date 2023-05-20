@@ -1,5 +1,5 @@
 # 문제: https://www.acmicpc.net/problem/18429
-
+# 변수 초기화에 신경 쓸 것
 def permutation(lst, n):
     result = []
     if n == 0:
@@ -14,14 +14,14 @@ def permutation(lst, n):
 # ========================================================
 n, k = map(int, input().split())
 kit = list(map(int, input().split()))
-weight = 500
 
 kits = permutation(kit, n)
 
 cnt = 0
 for w in kits:
-    for i in range(len(w)):
-        weight += w[i] - k
+    weight = 500
+    for i in w:
+        weight += i - k
 
         if weight < 500:
             break
