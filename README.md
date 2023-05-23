@@ -40,5 +40,6 @@
 ## 7️⃣ Implementation
 - [그룹 단어 체커](https://www.acmicpc.net/problem/1316)
 - [배열 복원하기](https://www.acmicpc.net/problem/16967)
+- [등수 구하기](https://www.acmicpc.net/problem/1205)
 
 ## 📁Before
