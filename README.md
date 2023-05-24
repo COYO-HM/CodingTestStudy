@@ -41,5 +41,8 @@
 - [그룹 단어 체커](https://www.acmicpc.net/problem/1316)
 - [배열 복원하기](https://www.acmicpc.net/problem/16967)
 - [등수 구하기](https://www.acmicpc.net/problem/1205)
+- [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
 
 ## 📁Before
+- [후위 표기식2](https://www.acmicpc.net/problem/1935)
+- [카드2](https://www.acmicpc.net/problem/2164)
