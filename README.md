@@ -45,4 +45,4 @@
 
 ## 📁Before
 - [후위 표기식2](https://www.acmicpc.net/problem/1935)
-- [카드2](https://www.acmicpc.net/problem/2164)
+- [한 줄로 서기](https://www.acmicpc.net/problem/1138)
