@@ -1,11 +1,7 @@
 # 문제: https://www.acmicpc.net/problem/1935
 n = int(input()) # 피연산자 개수
 postfix = input() # 후위 표기식
-operand = [0] * n # 피연산자 대응값 리스트
-
-# 피연산자 대응값 입력
-for i in range(n):
-    operand[i] = int(input())
+operand = [int(input()) for _ in range(n)] # 피연산자 대응값 리스트
 
 operator = ["*", "/", "+", "-"]
 stack = []
