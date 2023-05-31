@@ -4,6 +4,7 @@
 ## :one: Binary Search
 - [나무 자르기](https://www.acmicpc.net/problem/2805)
 - [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)
+- [입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
 
 ## :two: DFS, BFS
 - [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)
