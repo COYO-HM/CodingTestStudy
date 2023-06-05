@@ -8,7 +8,7 @@
 
 ## :two: DFS, BFS
 - [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)
-- [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)
+- [[카카오 인턴] 경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)
 - [아기 상어 2](https://www.acmicpc.net/problem/17086)
 
 ## :three: Dynamic Programming
