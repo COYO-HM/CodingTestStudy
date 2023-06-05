@@ -8,7 +8,7 @@
 
 ## :two: DFS, BFS
 - [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)
-- [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)
+- [[카카오 인턴] 경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)
 - [아기 상어 2](https://www.acmicpc.net/problem/17086)
 
 ## :three: Dynamic Programming
@@ -49,4 +49,8 @@
 - [후위 표기식2](https://www.acmicpc.net/problem/1935)
 
 ## 📁Before
-- [[카카오 인턴] 경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)
+- [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
+- [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
+- [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
+- [택배 상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)
+- [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/131704)
