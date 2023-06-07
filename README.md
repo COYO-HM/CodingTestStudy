@@ -1,17 +1,17 @@
-# :crescent_moon: Coding Test Study
+# 🐈 Coding Test Study
 ### 2023.04.08 ~ing
 
-## :one: Binary Search
+## 1️⃣ Binary Search
 - [나무 자르기](https://www.acmicpc.net/problem/2805)
 - [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)
 - [입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
 
-## :two: DFS, BFS
+## 2️⃣ DFS, BFS
 - [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)
 - [[카카오 인턴] 경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)
 - [아기 상어 2](https://www.acmicpc.net/problem/17086)
 
-## :three: Dynamic Programming
+## 3️⃣ Dynamic Programming
 - [스티커 모으기 2](https://school.programmers.co.kr/learn/courses/30/lessons/12971)
 - [스티커](https://www.acmicpc.net/problem/9465)
 - [2 x n 타일링](https://www.acmicpc.net/problem/11726)
@@ -24,10 +24,10 @@
 - [돌 게임](https://www.acmicpc.net/problem/9655)
 - [쉬운 계단 수](https://www.acmicpc.net/problem/10844)
 
-## :four: Dijkstra Algorithm
+## 4️⃣ Dijkstra Algorithm
 - [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)
 
-## :five: Brute Force
+## 5️⃣ Brute Force
 - [수들의 합2](https://www.acmicpc.net/problem/2003)
 - [덩치](https://www.acmicpc.net/problem/7568)
 - [사탕 게임](https://www.acmicpc.net/problem/3085)
@@ -35,7 +35,7 @@
 - [마라톤 1](https://www.acmicpc.net/problem/10655)
 - [근손실](https://www.acmicpc.net/problem/18429)
 
-## :six: Greedy Algorithm
+## 6️⃣ Greedy Algorithm
 - [체인](https://www.acmicpc.net/problem/2785)
 
 ## 7️⃣ Implementation
@@ -44,13 +44,16 @@
 - [등수 구하기](https://www.acmicpc.net/problem/1205)
 - [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
 - [한 줄로 서기](https://www.acmicpc.net/problem/1138)
+- [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
 
-## :eight: Stack, Queue
+## 8️⃣ Stack, Queue
 - [후위 표기식2](https://www.acmicpc.net/problem/1935)
 
-## 📁Before
+## 9️⃣ Dictionary
 - [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
-- [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
+
+
+## 📁Before
 - [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
 - [택배 상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)
 - [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
