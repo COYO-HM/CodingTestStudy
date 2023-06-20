@@ -23,6 +23,7 @@
 - [제곱수의 합](https://www.acmicpc.net/problem/1699)
 - [돌 게임](https://www.acmicpc.net/problem/9655)
 - [쉬운 계단 수](https://www.acmicpc.net/problem/10844)
+- [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)
 
 ## 4️⃣ Dijkstra Algorithm
 - [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)
@@ -57,5 +58,6 @@
 
 
 ## 📁Before
-- [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)
-
+- [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
+- [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)
+- [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)
