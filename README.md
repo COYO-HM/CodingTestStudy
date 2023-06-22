@@ -10,6 +10,7 @@
 - [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)
 - [[카카오 인턴] 경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)
 - [아기 상어 2](https://www.acmicpc.net/problem/17086)
+- [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
 
 ## 3️⃣ Dynamic Programming
 - [스티커 모으기 2](https://school.programmers.co.kr/learn/courses/30/lessons/12971)
@@ -56,8 +57,7 @@
 ## 9️⃣ Dictionary
 - [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
 
-
+---
 ## 📁Before
-- [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
 - [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)
 - [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)
