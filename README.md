@@ -65,6 +65,7 @@
 ## 8️⃣ Stack, Queue
 
 - [후위 표기식2](https://www.acmicpc.net/problem/1935)
+- [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 
 ## 9️⃣ Dictionary
 
@@ -73,7 +74,6 @@
 ---
 
 ## 📁Before
-- [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 - [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)
 - [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)
 - [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
