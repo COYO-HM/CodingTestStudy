@@ -60,6 +60,7 @@
 - [택배 상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)
 - [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
 - [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)
+- [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)
 
 ## 8️⃣ Stack, Queue
 
@@ -72,7 +73,7 @@
 ---
 
 ## 📁Before
-- [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)
+- [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 - [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)
 - [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)
 - [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
