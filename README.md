@@ -63,6 +63,7 @@
 - [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)
 - [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)
 - [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)
+- [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
 
 ## 8️⃣ Stack, Queue
 
@@ -76,4 +77,7 @@
 ---
 
 ## 📁Before
-- [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
+- [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
+- [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
+- [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
+- [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)
