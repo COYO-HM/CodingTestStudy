@@ -14,6 +14,7 @@
 - [[카카오 인턴] 경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)
 - [아기 상어 2](https://www.acmicpc.net/problem/17086)
 - [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
+- [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
 
 ## 3️⃣ Dynamic Programming
 
@@ -77,7 +78,6 @@
 ---
 
 ## 📁Before
-- [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
 - [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
 - [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
 - [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)
