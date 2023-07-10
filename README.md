@@ -65,6 +65,7 @@
 - [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)
 - [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)
 - [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
+- [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
 
 ## 8️⃣ Stack, Queue
 
@@ -75,9 +76,16 @@
 
 - [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
 
+
+## 🔟 GCD, LCM
+- [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
+
 ---
 
 ## 📁Before
-- [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
-- [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
 - [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)
+- [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)
+- [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)
+- [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)
+- [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
+- [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)
