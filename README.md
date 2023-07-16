@@ -15,6 +15,8 @@
 - [아기 상어 2](https://www.acmicpc.net/problem/17086)
 - [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
 - [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
+- [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)
+- [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
 
 ## 3️⃣ Dynamic Programming
 
@@ -66,6 +68,9 @@
 - [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)
 - [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
 - [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
+- [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)
+- [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)
+- [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)
 
 ## 8️⃣ Stack, Queue
 
@@ -83,9 +88,4 @@
 ---
 
 ## 📁Before
-- [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)
-- [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)
-- [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)
-- [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)
-- [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
 - [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)
