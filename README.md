@@ -89,3 +89,8 @@
 
 ## 📁Before
 - [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)
+- [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)
+- [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)
+- [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
+- [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)
+- [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)
