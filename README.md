@@ -94,3 +94,8 @@
 - [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
 - [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)
 - [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)
+- [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
+- [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)
+- [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)
+- [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)
+- [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
