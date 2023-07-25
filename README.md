@@ -72,6 +72,7 @@
 - [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)
 - [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)
 - [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)
+- [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)
 
 ## 8️⃣ Stack, Queue
 
@@ -89,7 +90,6 @@
 ---
 
 ## 📁Before
-- [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)
 - [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)
 - [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
 - [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)
