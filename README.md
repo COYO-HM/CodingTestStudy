@@ -7,6 +7,7 @@
 - [나무 자르기](https://www.acmicpc.net/problem/2805)
 - [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)
 - [입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
+- [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)
 
 ## 2️⃣ DFS, BFS
 
@@ -90,7 +91,6 @@
 ---
 
 ## 📁Before
-- [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)
 - [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
 - [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)
 - [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)
