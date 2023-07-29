@@ -18,6 +18,7 @@
 - [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
 - [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)
 - [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
+- [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
 
 ## 3️⃣ Dynamic Programming
 
@@ -91,7 +92,6 @@
 ---
 
 ## 📁Before
-- [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
 - [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)
 - [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)
 - [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
