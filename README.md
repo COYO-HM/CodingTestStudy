@@ -75,6 +75,7 @@
 - [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)
 - [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)
 - [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)
+- [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)
 
 ## 8️⃣ Stack, Queue
 
@@ -92,8 +93,6 @@
 ---
 
 ## 📁Before
-- [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)
-- [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)
 - [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
 - [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)
 - [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)
