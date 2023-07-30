@@ -19,6 +19,7 @@
 - [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)
 - [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
 - [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
+- [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
 
 ## 3️⃣ Dynamic Programming
 
@@ -93,7 +94,6 @@
 ---
 
 ## 📁Before
-- [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
 - [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)
 - [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)
 - [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)
