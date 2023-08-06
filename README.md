@@ -49,6 +49,7 @@
 - [카잉 달력](https://www.acmicpc.net/problem/6064)
 - [마라톤 1](https://www.acmicpc.net/problem/10655)
 - [근손실](https://www.acmicpc.net/problem/18429)
+- [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)
 
 ## 6️⃣ Greedy Algorithm
 
@@ -95,7 +96,6 @@
 ---
 
 ## 📁Before
-- [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)
 - [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)
 - [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
 - [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)
