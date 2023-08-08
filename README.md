@@ -79,6 +79,7 @@
 - [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)
 - [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)
 - [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)
+- [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
 
 ## 8️⃣ Stack, Queue
 
@@ -97,7 +98,6 @@
 
 ## 📁Before
 - [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)
-- [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
 - [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)
 - [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)
 - [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
