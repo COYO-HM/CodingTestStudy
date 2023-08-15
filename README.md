@@ -8,6 +8,7 @@
 - [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)
 - [입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
 - [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)
+- [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)
 
 ## 2️⃣ DFS, BFS
 
@@ -101,7 +102,6 @@
 
 ## 📁Before
 - [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)
-- [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)
 - [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
 - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
 - [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
