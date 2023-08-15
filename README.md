@@ -94,11 +94,13 @@
 ## 🔟 GCD, LCM
 - [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
 
+## Sort
+- [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)
+
 ---
 
 ## 📁Before
 - [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)
-- [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)
 - [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)
 - [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
 - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
