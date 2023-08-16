@@ -81,6 +81,7 @@
 - [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)
 - [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)
 - [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
+- [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)
 
 ## 8️⃣ Stack, Queue
 
@@ -101,10 +102,9 @@
 ---
 
 ## 📁Before
-- [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)
 - [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
 - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
-- [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
+- [택배 배달과 수거하기](https:임//school.programmers.co.kr/learn/courses/30/lessons/150369)
 
 - [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)
 - [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)
