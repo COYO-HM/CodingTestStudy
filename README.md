@@ -107,7 +107,7 @@
 - [택배 배달과 수거하기](https:임//school.programmers.co.kr/learn/courses/30/lessons/150369)
 - [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)
 - [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)
+- [당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)
 - 
 - [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)
 - [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)
-- [당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)
