@@ -21,6 +21,7 @@
 - [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
 - [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
 - [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
+- [그림](https://www.acmicpc.net/problem/1926)
 
 ## 3️⃣ Dynamic Programming
 
@@ -114,7 +115,6 @@
 - [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)
 
 
-- [그림](https://www.acmicpc.net/problem/1926)
 - [퇴사 2](https://www.acmicpc.net/problem/15486)
 - [적록색약](https://www.acmicpc.net/problem/10026)
 - [RGB거리](https://www.acmicpc.net/problem/1149)
