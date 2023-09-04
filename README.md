@@ -22,6 +22,7 @@
 - [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
 - [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
 - [그림](https://www.acmicpc.net/problem/1926)
+- [적록색약](https://www.acmicpc.net/problem/10026)
 
 ## 3️⃣ Dynamic Programming
 
@@ -117,7 +118,7 @@
 
 
 
-- [적록색약](https://www.acmicpc.net/problem/10026)
+
 - [RGB거리](https://www.acmicpc.net/problem/1149)
 - [불!](https://www.acmicpc.net/problem/4179)
 - [동전](https://www.acmicpc.net/problem/9084)
