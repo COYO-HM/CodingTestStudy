@@ -39,6 +39,7 @@
 - [쉬운 계단 수](https://www.acmicpc.net/problem/10844)
 - [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)
 - [퇴사 2](https://www.acmicpc.net/problem/15486)
+- [RGB거리](https://www.acmicpc.net/problem/1149)
 
 ## 4️⃣ Dijkstra Algorithm
 
@@ -117,7 +118,6 @@
 - [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)
 
 
-- [RGB거리](https://www.acmicpc.net/problem/1149)
 - [불!](https://www.acmicpc.net/problem/4179)
 - [동전](https://www.acmicpc.net/problem/9084)
 - [상범 빌딩](https://www.acmicpc.net/problem/6593)
