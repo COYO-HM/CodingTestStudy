@@ -1,19 +1,22 @@
 # https://www.acmicpc.net/problem/4179
-# 내일(9/6) 수정 예정
 from collections import deque
 dx = [1, -1, 0, 0]
 dy = [0, 0, 1, -1]
 
+def bfs():
+    while fire_que:
+        x, y, time = fire_que.popleft()
 
-def bfs(x, y, fire_x, fire_y):
-    que = deque([(x, y, 0)])
-    fire = deque([(fire_x, fire_y)])
-    visited = [[False] * C for _ in range(R)]
+        for i in range(4):
+            nx = x + dx[i]
+            ny = y + dy[i]
 
-    while que:
-        x, y, time = que.popleft()
-        visited[x][y] = True
-        fire_x, fire_y = fire.popleft()
+            if 0 <= nx < R and 0 <= ny < C and graph[nx][ny] != "#" and fire_time[nx][ny] == -1:
+                fire_time[nx][ny] = time + 1
+                fire_que.append((nx, ny, time + 1))
+
+    while human_que:
+        x, y, time = human_que.popleft()
 
         if x == 0 or x == R - 1 or y == 0 or y == C - 1:
             return time + 1
@@ -21,31 +24,26 @@ def bfs(x, y, fire_x, fire_y):
         for i in range(4):
             nx = x + dx[i]
             ny = y + dy[i]
-            nx_fire = fire_x + dx[i]
-            ny_fire = fire_y + dy[i]
 
-            if 0 <= nx_fire < R and 0 <= ny_fire < C and graph[nx_fire][ny_fire] == ".":
-                graph[nx_fire][ny_fire] = "F"
-                fire.append((nx_fire, ny_fire))
-
-            if 0 <= nx < R and 0 <= ny < C and graph[nx][ny] == "." and not visited[nx][ny]:
-                que.append((nx, ny, time + 1))
-                visited[nx][ny] = True
+            if 0 <= nx < R and 0 <= ny < C and graph[nx][ny] != "#" and human_time[nx][ny] == -1 and (fire_time[nx][ny] == -1 or fire_time[nx][ny] > time + 1):
+                human_time[nx][ny] = time + 1
+                human_que.append((nx, ny, time + 1))
 
     return "IMPOSSIBLE"
 
-
 R, C = map(int, input().split())
 graph = [list(input()) for _ in range(R)]
+fire_que, human_que = deque(), deque()
+fire_time, human_time = [[-1] * C for _ in range(R)], [[-1] * C for _ in range(R)]
 
-start_x, start_y = 0, 0
-fire_X, fire_Y = 0, 0
 for i in range(R):
     for j in range(C):
         if graph[i][j] == "J":
-            start_x, start_y = i, j
+            human_que.append((i, j, 0))
+            human_time[i][j] = 0
         elif graph[i][j] == "F":
-            fire_X, fire_Y = i, j
+            fire_que.append((i, j, 0))
+            fire_time[i][j] = 0
 
-result = bfs(start_x, start_y, fire_X, fire_Y)
+result = bfs()
 print(result)
