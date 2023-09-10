@@ -23,6 +23,7 @@
 - [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
 - [그림](https://www.acmicpc.net/problem/1926)
 - [적록색약](https://www.acmicpc.net/problem/10026)
+- [불!](https://www.acmicpc.net/problem/4179)
 
 ## 3️⃣ Dynamic Programming
 
@@ -118,7 +119,6 @@
 - [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)
 
 
-- [불!](https://www.acmicpc.net/problem/4179)
 - [동전](https://www.acmicpc.net/problem/9084)
 - [상범 빌딩](https://www.acmicpc.net/problem/6593)
 - [암호코드](https://www.acmicpc.net/problem/2011)
