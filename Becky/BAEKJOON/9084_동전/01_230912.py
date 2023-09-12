@@ -1,6 +1,5 @@
 # https://www.acmicpc.net/problem/9084
-T = int(input())
-for tc in range(T):
+for _ in range(int(input())):
     N = int(input())
     coins = list(map(int, input().split()))
     M = int(input())
