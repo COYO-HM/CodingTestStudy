@@ -41,6 +41,7 @@
 - [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)
 - [퇴사 2](https://www.acmicpc.net/problem/15486)
 - [RGB거리](https://www.acmicpc.net/problem/1149)
+- [동전](https://www.acmicpc.net/problem/9084)
 
 ## 4️⃣ Dijkstra Algorithm
 
@@ -114,12 +115,10 @@
 - [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)
 - [당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)
 
-
 - [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)
 - [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)
 
 
-- [동전](https://www.acmicpc.net/problem/9084)
 - [상범 빌딩](https://www.acmicpc.net/problem/6593)
 - [암호코드](https://www.acmicpc.net/problem/2011)
 - [숨바꼭질 3](https://www.acmicpc.net/problem/13549)
