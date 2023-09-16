@@ -24,6 +24,7 @@
 - [그림](https://www.acmicpc.net/problem/1926)
 - [적록색약](https://www.acmicpc.net/problem/10026)
 - [불!](https://www.acmicpc.net/problem/4179)
+- [상범 빌딩](https://www.acmicpc.net/problem/6593)
 
 ## 3️⃣ Dynamic Programming
 
@@ -119,7 +120,7 @@
 - [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)
 
 
-- [상범 빌딩](https://www.acmicpc.net/problem/6593)
+
 - [암호코드](https://www.acmicpc.net/problem/2011)
 - [숨바꼭질 3](https://www.acmicpc.net/problem/13549)
 - [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)

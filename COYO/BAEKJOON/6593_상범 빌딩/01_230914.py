@@ -47,10 +47,3 @@ while True:
         print("Trapped!")
     else:
         print("Escaped in " + str(ans) + " minute(s).")
-
-
-
-
-
-
-
