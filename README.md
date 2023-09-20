@@ -111,7 +111,7 @@
 ## 📁Before
 - [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
 - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
-- [택배 배달과 수거하기](https:임//school.programmers.co.kr/learn/courses/30/lessons/150369)
+- [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
 - [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)
 - [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)
 - [당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)
