@@ -2,7 +2,7 @@
 
 ### 2023.04.08 ~ing
 
-## 1️⃣ Binary Search
+## 📂 01. Binary Search
 
 - [나무 자르기](https://www.acmicpc.net/problem/2805)
 - [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)
@@ -10,7 +10,7 @@
 - [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)
 - [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)
 
-## 2️⃣ DFS, BFS
+## 📂 02. DFS, BFS
 
 - [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)
 - [[카카오 인턴] 경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)
@@ -26,7 +26,7 @@
 - [불!](https://www.acmicpc.net/problem/4179)
 - [상범 빌딩](https://www.acmicpc.net/problem/6593)
 
-## 3️⃣ Dynamic Programming
+## 📂 03. Dynamic Programming
 
 - [스티커 모으기 2](https://school.programmers.co.kr/learn/courses/30/lessons/12971)
 - [스티커](https://www.acmicpc.net/problem/9465)
@@ -44,12 +44,12 @@
 - [RGB거리](https://www.acmicpc.net/problem/1149)
 - [동전](https://www.acmicpc.net/problem/9084)
 
-## 4️⃣ Dijkstra Algorithm
+## 📂 04. Dijkstra Algorithm
 
 - [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)
 - [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)
 
-## 5️⃣ Brute Force
+## 📂 05. Brute Force
 
 - [수들의 합2](https://www.acmicpc.net/problem/2003)
 - [덩치](https://www.acmicpc.net/problem/7568)
@@ -59,11 +59,11 @@
 - [근손실](https://www.acmicpc.net/problem/18429)
 - [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)
 
-## 6️⃣ Greedy Algorithm
+## 📂 06. Greedy Algorithm
 
 - [체인](https://www.acmicpc.net/problem/2785)
 
-## 7️⃣ Implementation
+## 📂 07. Implementation
 
 - [그룹 단어 체커](https://www.acmicpc.net/problem/1316)
 - [배열 복원하기](https://www.acmicpc.net/problem/16967)
@@ -90,20 +90,20 @@
 - [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
 - [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)
 
-## 8️⃣ Stack, Queue
+## 📂 08. Stack, Queue
 
 - [후위 표기식2](https://www.acmicpc.net/problem/1935)
 - [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 
-## 9️⃣ Dictionary
+## 📂 09. Dictionary
 
 - [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
 
 
-## 🔟 GCD, LCM
+## 📂 10. GCD, LCM
 - [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
 
-## Sort
+## 📂 11. Sort
 - [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)
 
 ---
@@ -119,6 +119,10 @@
 - [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
 - [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)
 - [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)
-
-
 - [암호코드](https://www.acmicpc.net/problem/2011)
+
+## 💻 Samsung
+- [치킨배달](https://www.acmicpc.net/problem/15686)
+- [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)
+- [상어 초등학교](https://www.acmicpc.net/problem/21608)
+- [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)
