@@ -112,6 +112,7 @@
 - [치킨배달](https://www.acmicpc.net/problem/15686)
 - [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)
 - [상어 초등학교](https://www.acmicpc.net/problem/21608)
+- [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)
 
 ---
 ## 📁Before
@@ -130,7 +131,6 @@
 
 
 ## 💻 Samsung
-- [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)
 - [뱀](https://www.acmicpc.net/problem/3190)
 - [주사위 굴리기](https://www.acmicpc.net/problem/14499)
 - [테트로미노](https://www.acmicpc.net/problem/14500)
