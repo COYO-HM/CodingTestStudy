@@ -113,30 +113,9 @@
 - [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)
 - [상어 초등학교](https://www.acmicpc.net/problem/21608)
 - [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)
+- [뱀](https://www.acmicpc.net/problem/3190)
+
 
 ---
 ## 📁Before
-- [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
-- [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
-- [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
-- [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)
-- [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)
-- [당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)
-- [숨바꼭질 3](https://www.acmicpc.net/problem/13549)
-- [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
-- [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)
-- [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)
-- [암호코드](https://www.acmicpc.net/problem/2011)
-
-
-
-## 💻 Samsung
-- [뱀](https://www.acmicpc.net/problem/3190)
-- [주사위 굴리기](https://www.acmicpc.net/problem/14499)
-- [테트로미노](https://www.acmicpc.net/problem/14500)
-- [연구소](https://www.acmicpc.net/problem/14502)
-- [감시](https://www.acmicpc.net/problem/15683)
-- [인구 이동](https://www.acmicpc.net/problem/16234)
-- [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)
-- [이차원 배열과 연산](https://www.acmicpc.net/problem/17140)
-- [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)
+- [ZOAC 4](https://www.acmicpc.net/problem/23971)
