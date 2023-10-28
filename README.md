@@ -91,6 +91,8 @@
 - [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)
 - [ZOAC 4](https://www.acmicpc.net/problem/23971)
 - [삼각형과 세 변](https://www.acmicpc.net/problem/5073)
+- [벌집](https://www.acmicpc.net/problem/2292)
+
 
 ## 📂 08. Stack, Queue
 
@@ -120,6 +122,5 @@
 
 ---
 ## 📁Before
-- [벌집](https://www.acmicpc.net/problem/2292)
 - [단어 공부](https://www.acmicpc.net/problem/1157)
 - [집합](https://www.acmicpc.net/problem/11723)
