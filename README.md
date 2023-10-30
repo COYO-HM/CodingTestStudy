@@ -92,6 +92,8 @@
 - [ZOAC 4](https://www.acmicpc.net/problem/23971)
 - [삼각형과 세 변](https://www.acmicpc.net/problem/5073)
 - [벌집](https://www.acmicpc.net/problem/2292)
+- [단어 공부](https://www.acmicpc.net/problem/1157)
+- [집합](https://www.acmicpc.net/problem/11723)
 
 
 ## 📂 08. Stack, Queue
@@ -122,8 +124,6 @@
 
 ---
 ## 📁Before
-- [단어 공부](https://www.acmicpc.net/problem/1157)
-- [집합](https://www.acmicpc.net/problem/11723)
 - [돌 게임](https://www.acmicpc.net/problem/9655)
 - [줄세우기](https://www.acmicpc.net/problem/10431)
 - [올림픽](https://www.acmicpc.net/problem/8979)
