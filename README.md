@@ -124,7 +124,6 @@
 
 ---
 ## 📁Before
-- [돌 게임](https://www.acmicpc.net/problem/9655)
 - [줄세우기](https://www.acmicpc.net/problem/10431)
 - [올림픽](https://www.acmicpc.net/problem/8979)
 - [덩치](https://www.acmicpc.net/problem/7568)
