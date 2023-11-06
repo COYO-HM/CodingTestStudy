@@ -58,6 +58,7 @@
 - [마라톤 1](https://www.acmicpc.net/problem/10655)
 - [근손실](https://www.acmicpc.net/problem/18429)
 - [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)
+- [덩치](https://www.acmicpc.net/problem/7568)
 
 ## 📂 06. Greedy Algorithm
 
@@ -95,6 +96,8 @@
 - [단어 공부](https://www.acmicpc.net/problem/1157)
 - [집합](https://www.acmicpc.net/problem/11723)
 - [줄세우기](https://www.acmicpc.net/problem/10431)
+- [올림픽](https://www.acmicpc.net/problem/8979)
+- [비밀번호 발음하기](https://www.acmicpc.net/problem/4659)
 
 
 ## 📂 08. Stack, Queue
@@ -125,10 +128,6 @@
 
 ---
 ## 📁Before
-- [올림픽](https://www.acmicpc.net/problem/8979)
-- [덩치](https://www.acmicpc.net/problem/7568)
-- [비밀번호 발음하기](https://www.acmicpc.net/problem/4659)
-
 - [임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757)
 - [쿠키의 신체 측정](https://www.acmicpc.net/problem/20125)
 - [등수 구하기](https://www.acmicpc.net/problem/1205)
