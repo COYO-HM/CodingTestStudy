@@ -98,6 +98,9 @@
 - [줄세우기](https://www.acmicpc.net/problem/10431)
 - [올림픽](https://www.acmicpc.net/problem/8979)
 - [비밀번호 발음하기](https://www.acmicpc.net/problem/4659)
+- [임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757)
+- [쿠키의 신체 측정](https://www.acmicpc.net/problem/20125)
+- [등수 구하기](https://www.acmicpc.net/problem/1205)
 
 
 ## 📂 08. Stack, Queue
@@ -111,14 +114,17 @@
 
 
 ## 📂 10. GCD, LCM
+
 - [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
 
 ## 📂 11. Sort
+
 - [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)
 
 ## [📂 12. 삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
+
 - [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
-- [스타트와 링크](https://www.acmicpc.net/problem/14889)
+- [스타트와 링크](https://www.acmicpc.net/problem/14889)동
 - [치킨배달](https://www.acmicpc.net/problem/15686)
 - [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)
 - [상어 초등학교](https://www.acmicpc.net/problem/21608)
@@ -128,8 +134,12 @@
 
 ---
 ## 📁Before
-- [임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757)
-- [쿠키의 신체 측정](https://www.acmicpc.net/problem/20125)
-- [등수 구하기](https://www.acmicpc.net/problem/1205)
+
 - [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
 - [크로스 컨트리](https://www.acmicpc.net/problem/9017)
+
+- [어두운 굴다리](https://www.acmicpc.net/problem/17266)
+- [카드2](https://www.acmicpc.net/problem/2164)
+- [주유소](https://www.acmicpc.net/problem/13305)
+- [영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)
+- [예산](https://www.acmicpc.net/problem/2512)
