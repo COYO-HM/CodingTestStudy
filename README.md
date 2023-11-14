@@ -120,7 +120,7 @@
 
 ## [📂 12. 삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
 - [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
-- [스타트와 링크](https://www.acmicpc.net/problem/14889)
+- [스타트와 링크](https://www.acmicpc.net/problem/14889)동
 - [치킨배달](https://www.acmicpc.net/problem/15686)
 - [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)
 - [상어 초등학교](https://www.acmicpc.net/problem/21608)
