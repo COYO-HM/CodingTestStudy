@@ -98,6 +98,8 @@
 - [줄세우기](https://www.acmicpc.net/problem/10431)
 - [올림픽](https://www.acmicpc.net/problem/8979)
 - [비밀번호 발음하기](https://www.acmicpc.net/problem/4659)
+- [임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757)
+- [쿠키의 신체 측정](https://www.acmicpc.net/problem/20125)
 
 
 ## 📂 08. Stack, Queue
@@ -128,8 +130,6 @@
 
 ---
 ## 📁Before
-- [임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757)
-- [쿠키의 신체 측정](https://www.acmicpc.net/problem/20125)
 - [등수 구하기](https://www.acmicpc.net/problem/1205)
 - [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
 - [크로스 컨트리](https://www.acmicpc.net/problem/9017)
