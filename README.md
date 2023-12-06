@@ -9,6 +9,7 @@
 - [입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
 - [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)
 - [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)
+- [어두운 굴다리](https://www.acmicpc.net/problem/17266)
 
 ## 📂 02. DFS, BFS
 
@@ -102,6 +103,7 @@
 - [쿠키의 신체 측정](https://www.acmicpc.net/problem/20125)
 - [등수 구하기](https://www.acmicpc.net/problem/1205)
 - [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
+- [크로스 컨트리](https://www.acmicpc.net/problem/9017)
 
 
 ## 📂 08. Stack, Queue
@@ -135,9 +137,6 @@
 
 ---
 ## 📁Before
-- [크로스 컨트리](https://www.acmicpc.net/problem/9017)
-
-- [어두운 굴다리](https://www.acmicpc.net/problem/17266)
 - [카드2](https://www.acmicpc.net/problem/2164)
 - [주유소](https://www.acmicpc.net/problem/13305)
 - [영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)
