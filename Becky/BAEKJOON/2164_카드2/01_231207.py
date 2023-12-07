@@ -1,6 +1,6 @@
 # https://www.acmicpc.net/problem/2164
-# 시작: 2:20
-# 종료: 2:25
+# 시작: 14:20
+# 종료: 14:25
 from collections import deque
 
 N = int(input())
