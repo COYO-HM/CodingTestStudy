@@ -64,6 +64,7 @@
 ## 📂 06. Greedy Algorithm
 
 - [체인](https://www.acmicpc.net/problem/2785)
+- [주유소](https://www.acmicpc.net/problem/13305)
 
 ## 📂 07. Implementation
 
@@ -110,6 +111,7 @@
 
 - [후위 표기식2](https://www.acmicpc.net/problem/1935)
 - [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
+- [카드2](https://www.acmicpc.net/problem/2164)
 
 ## 📂 09. Dictionary
 
@@ -137,7 +139,5 @@
 
 ---
 ## 📁Before
-- [카드2](https://www.acmicpc.net/problem/2164)
-- [주유소](https://www.acmicpc.net/problem/13305)
 - [영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)
 - [예산](https://www.acmicpc.net/problem/2512)
