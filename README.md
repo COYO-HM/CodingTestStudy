@@ -10,6 +10,7 @@
 - [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)
 - [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)
 - [어두운 굴다리](https://www.acmicpc.net/problem/17266)
+- [예산](https://www.acmicpc.net/problem/2512)
 
 ## 📂 02. DFS, BFS
 
@@ -122,11 +123,19 @@
 
 - [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
 
+
 ## 📂 11. Sort
 
 - [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)
+- [영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)
 
-## [📂 12. 삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
+
+## 📂 12. Prefix Sum
+
+- [블로그](https://www.acmicpc.net/problem/21921)
+
+
+## [📂 13. 삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
 
 - [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
 - [스타트와 링크](https://www.acmicpc.net/problem/14889)
@@ -139,13 +148,12 @@
 
 ---
 ## 📁Before
-- [영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)
-- [예산](https://www.acmicpc.net/problem/2512)
 
-- [블로그](https://www.acmicpc.net/problem/21921)
 - [수 이어 쓰기](https://www.acmicpc.net/problem/1515)
 - [햄버거 분배](https://www.acmicpc.net/problem/19941)
 - [진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484)
+
+
 - [비슷한 단어](https://www.acmicpc.net/problem/2607)
 - [KCPC](https://www.acmicpc.net/problem/3758)
 - [타노스](https://www.acmicpc.net/problem/20310)
