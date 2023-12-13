@@ -2,16 +2,16 @@
 # 00:31(H:M)
 
 import sys
-input = sys.stdin.readline().rstrip()
-ans = 0
+number = sys.stdin.readline().rstrip()
+N = 0
 while True:
-    ans += 1
-    number = str(ans)
-    while len(input) > 0 and len(number) > 0:
-        if input[0] == number[0]:
-            input = input[1:]
-        number = number[1:]
+    N += 1
+    number_str = str(N)
+    while len(number) > 0 and len(number_str) > 0:
+        if number[0] == number_str[0]:
+            number = number[1:]
+        number_str = number_str[1:]
 
-    if input == "":
-        print(ans)
+    if number == "":
+        print(N)
         break
