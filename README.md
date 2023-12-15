@@ -61,11 +61,16 @@
 - [근손실](https://www.acmicpc.net/problem/18429)
 - [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)
 - [덩치](https://www.acmicpc.net/problem/7568)
+- [진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484)
+- [수 이어 쓰기](https://www.acmicpc.net/problem/1515)
+
 
 ## 📂 06. Greedy Algorithm
 
 - [체인](https://www.acmicpc.net/problem/2785)
 - [주유소](https://www.acmicpc.net/problem/13305)
+- [햄버거 분배](https://www.acmicpc.net/problem/19941)
+
 
 ## 📂 07. Implementation
 
@@ -148,13 +153,8 @@
 
 ---
 ## 📁Before
-
-- [수 이어 쓰기](https://www.acmicpc.net/problem/1515)
-- [햄버거 분배](https://www.acmicpc.net/problem/19941)
-- [진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484)
-
-
 - [비슷한 단어](https://www.acmicpc.net/problem/2607)
 - [KCPC](https://www.acmicpc.net/problem/3758)
+
 - [타노스](https://www.acmicpc.net/problem/20310)
 - [IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)
