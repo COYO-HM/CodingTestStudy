@@ -10,14 +10,14 @@ answer = ""
 cnt_one, cnt_zero = 0, 0
 
 for s in S:
-    if s == "1" and cnt_one < len_one // 2:
-        cnt_one += 1
+    if s == "1":
+        if cnt_one < len_one // 2:
+            cnt_one += 1
+        else:
+            answer += s
     elif s == "0" and cnt_zero < len_zero // 2:
         answer += s
         cnt_zero += 1
-    elif s == "0":
-        continue
-    else:
-        answer += s
+
 
 print(answer)
