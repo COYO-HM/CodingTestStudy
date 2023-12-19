@@ -111,6 +111,7 @@
 - [등수 구하기](https://www.acmicpc.net/problem/1205)
 - [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
 - [크로스 컨트리](https://www.acmicpc.net/problem/9017)
+- [비슷한 단어](https://www.acmicpc.net/problem/2607)
 
 
 ## 📂 08. Stack, Queue
@@ -153,7 +154,7 @@
 
 ---
 ## 📁Before
-- [비슷한 단어](https://www.acmicpc.net/problem/2607)
+
 - [KCPC](https://www.acmicpc.net/problem/3758)
 
 - [타노스](https://www.acmicpc.net/problem/20310)
