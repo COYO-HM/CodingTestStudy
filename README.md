@@ -70,6 +70,7 @@
 - [체인](https://www.acmicpc.net/problem/2785)
 - [주유소](https://www.acmicpc.net/problem/13305)
 - [햄버거 분배](https://www.acmicpc.net/problem/19941)
+- [타노스](https://www.acmicpc.net/problem/20310)
 
 
 ## 📂 07. Implementation
@@ -157,5 +158,11 @@
 
 - [KCPC](https://www.acmicpc.net/problem/3758)
 
-- [타노스](https://www.acmicpc.net/problem/20310)
+
 - [IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)
+- [가희와 키워드](https://www.acmicpc.net/problem/22233)
+- [최소 힙](https://www.acmicpc.net/problem/1927)
+- [랭킹전 대기열](https://www.acmicpc.net/problem/20006)
+- [주식](https://www.acmicpc.net/problem/11501)
+- [에디터](https://www.acmicpc.net/problem/1406)
+- [창고 다각형](https://www.acmicpc.net/problem/2304)
