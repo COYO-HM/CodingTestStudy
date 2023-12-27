@@ -135,6 +135,7 @@
 
 - [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)
 - [영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)
+- [KCPC](https://www.acmicpc.net/problem/3758)
 
 
 ## 📂 12. Prefix Sum
@@ -155,10 +156,6 @@
 
 ---
 ## 📁Before
-
-- [KCPC](https://www.acmicpc.net/problem/3758)
-
-
 - [IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)
 - [가희와 키워드](https://www.acmicpc.net/problem/22233)
 - [최소 힙](https://www.acmicpc.net/problem/1927)
