@@ -11,6 +11,8 @@
 - [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)
 - [어두운 굴다리](https://www.acmicpc.net/problem/17266)
 - [예산](https://www.acmicpc.net/problem/2512)
+- [IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)
+
 
 ## 📂 02. DFS, BFS
 
@@ -156,9 +158,10 @@
 
 ---
 ## 📁Before
-- [IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)
 - [가희와 키워드](https://www.acmicpc.net/problem/22233)
 - [최소 힙](https://www.acmicpc.net/problem/1927)
+
+
 - [랭킹전 대기열](https://www.acmicpc.net/problem/20006)
 - [주식](https://www.acmicpc.net/problem/11501)
 - [에디터](https://www.acmicpc.net/problem/1406)
