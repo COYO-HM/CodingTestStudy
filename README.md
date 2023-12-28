@@ -145,7 +145,12 @@
 - [블로그](https://www.acmicpc.net/problem/21921)
 
 
-## [📂 13. 삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
+## 📂 13. Hash
+
+- [가희와 키워드](https://www.acmicpc.net/problem/22233)
+
+
+## [📂 14. 삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
 
 - [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
 - [스타트와 링크](https://www.acmicpc.net/problem/14889)
@@ -158,10 +163,8 @@
 
 ---
 ## 📁Before
-- [가희와 키워드](https://www.acmicpc.net/problem/22233)
+
 - [최소 힙](https://www.acmicpc.net/problem/1927)
-
-
 - [랭킹전 대기열](https://www.acmicpc.net/problem/20006)
 - [주식](https://www.acmicpc.net/problem/11501)
 - [에디터](https://www.acmicpc.net/problem/1406)
