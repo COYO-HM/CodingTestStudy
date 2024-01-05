@@ -214,10 +214,12 @@
   <summary> 📁 𝐁𝐞𝐟𝐨𝐫𝐞 ˚˖𓍢ִִ໋🌊🦈˚˖𓍢ִ✧˚. </summary>
   <br>
 
-  - [최소 힙](https://www.acmicpc.net/problem/1927)
-  - [랭킹전 대기열](https://www.acmicpc.net/problem/20006)
-  - [주식](https://www.acmicpc.net/problem/11501)
-  - [에디터](https://www.acmicpc.net/problem/1406)
-  - [창고 다각형](https://www.acmicpc.net/problem/2304)
+  - [[BOJ]1927_최소 힙](https://www.acmicpc.net/problem/1927)
+  - [[BOJ]20006_랭킹전 대기열](https://www.acmicpc.net/problem/20006)
+  - [[BOJ]11501_주식](https://www.acmicpc.net/problem/11501)
+  - [[BOJ]1406_에디터](https://www.acmicpc.net/problem/1406)
+  - [[BOJ]2304_창고 다각형](https://www.acmicpc.net/problem/2304)
+  - [[BOJ]2075_N번째로 큰 수](https://www.acmicpc.net/problem/2075)
+  - [[BOJ]1138_한 줄로 서기](https://www.acmicpc.net/problem/1138)
   
 </details>
