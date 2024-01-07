@@ -83,7 +83,7 @@
   - [덩치](https://www.acmicpc.net/problem/7568)
   - [진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484)
   - [수 이어 쓰기](https://www.acmicpc.net/problem/1515)
-
+  - [[BOJ]2304_창고 다각형](https://www.acmicpc.net/problem/2304)
   
 </details>
 
@@ -95,6 +95,7 @@
   - [주유소](https://www.acmicpc.net/problem/13305)
   - [햄버거 분배](https://www.acmicpc.net/problem/19941)
   - [타노스](https://www.acmicpc.net/problem/20310)
+  - [[BOJ]11501_주식](https://www.acmicpc.net/problem/11501)
   
 </details>
 
@@ -140,7 +141,8 @@
   - [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
   - [크로스 컨트리](https://www.acmicpc.net/problem/9017)
   - [비슷한 단어](https://www.acmicpc.net/problem/2607)
-  
+  - [[BOJ]20006_랭킹전 대기열](https://www.acmicpc.net/problem/20006)  
+
 </details>
 
 <details>
@@ -150,7 +152,9 @@
   - [후위 표기식2](https://www.acmicpc.net/problem/1935)
   - [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
   - [카드2](https://www.acmicpc.net/problem/2164)
-    
+  - [[BOJ]1927_최소 힙](https://www.acmicpc.net/problem/1927)  
+  - [[BOJ]1406_에디터](https://www.acmicpc.net/problem/1406)  
+
 </details>
 
 <details>
@@ -214,11 +218,6 @@
   <summary> 📁 𝐁𝐞𝐟𝐨𝐫𝐞 ˚˖𓍢ִִ໋🌊🦈˚˖𓍢ִ✧˚. </summary>
   <br>
 
-  - [[BOJ]1927_최소 힙](https://www.acmicpc.net/problem/1927)
-  - [[BOJ]20006_랭킹전 대기열](https://www.acmicpc.net/problem/20006)
-  - [[BOJ]11501_주식](https://www.acmicpc.net/problem/11501)
-  - [[BOJ]1406_에디터](https://www.acmicpc.net/problem/1406)
-  - [[BOJ]2304_창고 다각형](https://www.acmicpc.net/problem/2304)
   - [[BOJ]2075_N번째로 큰 수](https://www.acmicpc.net/problem/2075)
   - [[BOJ]1138_한 줄로 서기](https://www.acmicpc.net/problem/1138)
   
