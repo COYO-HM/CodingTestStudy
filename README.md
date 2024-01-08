@@ -220,5 +220,14 @@
 
   - [[BOJ]2075_N번째로 큰 수](https://www.acmicpc.net/problem/2075)
   - [[BOJ]1138_한 줄로 서기](https://www.acmicpc.net/problem/1138)
+  - [[BOJ]1260_DFS와 BFS](https://www.acmicpc.net/problem/1260)
+  - [[BOJ]14940_쉬운 최단거리](https://www.acmicpc.net/problem/14940)
+  - [[BOJ]20922_겹치는 건 싫어](https://www.acmicpc.net/problem/20922)
+  - [[BOJ]15989_1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)
+  - [[BOJ]1446_지름길](https://www.acmicpc.net/problem/1446)
+  - [[BOJ]17615_볼 모으기](https://www.acmicpc.net/problem/17615)
+  - [[BOJ]2531_회전 초밥](https://www.acmicpc.net/problem/2531)
+  - [[BOJ]1522_문자열 교환](https://www.acmicpc.net/problem/1522)
+  
   
 </details>
