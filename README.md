@@ -36,6 +36,7 @@
   - [불!](https://www.acmicpc.net/problem/4179)
   - [상범 빌딩](https://www.acmicpc.net/problem/6593)
   - [[BOJ]1260_DFS와 BFS](https://www.acmicpc.net/problem/1260)
+  - [[BOJ]14940_쉬운 최단거리](https://www.acmicpc.net/problem/14940)
 
   
 </details>
@@ -224,7 +225,7 @@
   <summary> 📁 𝐁𝐞𝐟𝐨𝐫𝐞 ˚˖𓍢ִִ໋🌊🦈˚˖𓍢ִ✧˚. </summary>
   <br>
 
-  - [[BOJ]14940_쉬운 최단거리](https://www.acmicpc.net/problem/14940)
+
   - [[BOJ]20922_겹치는 건 싫어](https://www.acmicpc.net/problem/20922)
   - [[BOJ]15989_1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)
   - [[BOJ]1446_지름길](https://www.acmicpc.net/problem/1446)
