@@ -35,6 +35,8 @@
   - [적록색약](https://www.acmicpc.net/problem/10026)
   - [불!](https://www.acmicpc.net/problem/4179)
   - [상범 빌딩](https://www.acmicpc.net/problem/6593)
+  - [[BOJ]1260_DFS와 BFS](https://www.acmicpc.net/problem/1260)
+
   
 </details>
 
@@ -142,6 +144,8 @@
   - [크로스 컨트리](https://www.acmicpc.net/problem/9017)
   - [비슷한 단어](https://www.acmicpc.net/problem/2607)
   - [[BOJ]20006_랭킹전 대기열](https://www.acmicpc.net/problem/20006)  
+  - [[BOJ]1138_한 줄로 서기](https://www.acmicpc.net/problem/1138)
+
 
 </details>
 
@@ -180,7 +184,9 @@
   - [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)
   - [영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)
   - [KCPC](https://www.acmicpc.net/problem/3758)
-  
+  - [[BOJ]2075_N번째로 큰 수](https://www.acmicpc.net/problem/2075)  
+
+
 </details>
 
 <details>
@@ -218,9 +224,6 @@
   <summary> 📁 𝐁𝐞𝐟𝐨𝐫𝐞 ˚˖𓍢ִִ໋🌊🦈˚˖𓍢ִ✧˚. </summary>
   <br>
 
-  - [[BOJ]2075_N번째로 큰 수](https://www.acmicpc.net/problem/2075)
-  - [[BOJ]1138_한 줄로 서기](https://www.acmicpc.net/problem/1138)
-  - [[BOJ]1260_DFS와 BFS](https://www.acmicpc.net/problem/1260)
   - [[BOJ]14940_쉬운 최단거리](https://www.acmicpc.net/problem/14940)
   - [[BOJ]20922_겹치는 건 싫어](https://www.acmicpc.net/problem/20922)
   - [[BOJ]15989_1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)
