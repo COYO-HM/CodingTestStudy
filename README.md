@@ -6,14 +6,14 @@
   <summary>📂 𝐁𝐢𝐧𝐚𝐫𝐲 𝐒𝐞𝐚𝐫𝐜𝐡 </summary>
   <br>
   
-  - [나무 자르기](https://www.acmicpc.net/problem/2805)
-  - [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)
-  - [입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
-  - [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)
-  - [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)
-  - [어두운 굴다리](https://www.acmicpc.net/problem/17266)
-  - [예산](https://www.acmicpc.net/problem/2512)
-  - [IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)
+  - [[BOJ]2805_나무 자르기](https://www.acmicpc.net/problem/2805)
+  - [[PRO]64062_징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)
+  - [[PRO]43238_입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
+  - [[PRO]142085_디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)
+  - [[PRO]72412_순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)
+  - [[BOJ]17266_어두운 굴다리](https://www.acmicpc.net/problem/17266)
+  - [[BOJ]2512_예산](https://www.acmicpc.net/problem/2512)
+  - [[BOJ]19637_IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)
   
   
 </details>
@@ -22,19 +22,19 @@
   <summary>📂 𝐃𝐅𝐒, 𝐁𝐅𝐒 </summary>
   <br>
   
-  - [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)
-  - [[카카오 인턴] 경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)
-  - [아기 상어 2](https://www.acmicpc.net/problem/17086)
-  - [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
-  - [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
-  - [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)
-  - [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
-  - [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
-  - [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
-  - [그림](https://www.acmicpc.net/problem/1926)
-  - [적록색약](https://www.acmicpc.net/problem/10026)
-  - [불!](https://www.acmicpc.net/problem/4179)
-  - [상범 빌딩](https://www.acmicpc.net/problem/6593)
+  - [[PRO]43164여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)
+  - [[PRO][카카오 인턴]67259_경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)
+  - [[BOJ]17086_아기 상어 2](https://www.acmicpc.net/problem/17086)
+  - [[PRO]86971_전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
+  - [[PRO]81302_거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
+  - [[PRO]154540_무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)
+  - [[PRO]159993_미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
+  - [[PRO]169199_리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
+  - [[PRO]12952_N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
+  - [[BOJ]1926_그림](https://www.acmicpc.net/problem/1926)
+  - [[BOJ]10026_적록색약](https://www.acmicpc.net/problem/10026)
+  - [[BOJ]4179_불!](https://www.acmicpc.net/problem/4179)
+  - [[BOJ]6593_상범 빌딩](https://www.acmicpc.net/problem/6593)
   - [[BOJ]1260_DFS와 BFS](https://www.acmicpc.net/problem/1260)
   - [[BOJ]14940_쉬운 최단거리](https://www.acmicpc.net/problem/14940)
 
