@@ -18,6 +18,5 @@ while r < N:
         counter[lst[l]] -= 1
         l += 1
     answer = max(answer, r - l)
-    print(r, l)
 
 print(answer)
