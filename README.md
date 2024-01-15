@@ -15,6 +15,7 @@
   - [[BOJ]2512_예산](https://www.acmicpc.net/problem/2512)
   - [[BOJ]19637_IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)
   - [[BOJ]20922_겹치는 건 싫어](https://www.acmicpc.net/problem/20922)
+  - [[BOJ]15989_1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)
   
   
 </details>
@@ -226,9 +227,6 @@
   <summary> 📁 𝐁𝐞𝐟𝐨𝐫𝐞 ˚˖𓍢ִִ໋🌊🦈˚˖𓍢ִ✧˚. </summary>
   <br>
 
-
-
-  - [[BOJ]15989_1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)
   - [[BOJ]1446_지름길](https://www.acmicpc.net/problem/1446)
   - [[BOJ]17615_볼 모으기](https://www.acmicpc.net/problem/17615)
   - [[BOJ]2531_회전 초밥](https://www.acmicpc.net/problem/2531)
