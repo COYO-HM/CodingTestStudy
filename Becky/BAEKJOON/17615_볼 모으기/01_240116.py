@@ -1,4 +1,4 @@
-# https://www.acmicpc.net/workbook/view/8708
+# https://www.acmicpc.net/problem/17615
 # 17:12-18:00
 import sys
 input = sys.stdin.readline
