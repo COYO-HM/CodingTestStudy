@@ -62,7 +62,9 @@
   - [[BOJ]15486_퇴사 2](https://www.acmicpc.net/problem/15486)
   - [[BOJ]1149_RGB거리](https://www.acmicpc.net/problem/1149)
   - [[BOJ]9084_동전](https://www.acmicpc.net/problem/9084)
-  
+  - [[BOJ]1446_지름길](https://www.acmicpc.net/problem/1446)  
+
+
 </details>
 
 <details>
@@ -227,7 +229,6 @@
   <summary> 📁 𝐁𝐞𝐟𝐨𝐫𝐞 ˚˖𓍢ִִ໋🌊🦈˚˖𓍢ִ✧˚. </summary>
   <br>
 
-  - [[BOJ]1446_지름길](https://www.acmicpc.net/problem/1446)
   - [[BOJ]17615_볼 모으기](https://www.acmicpc.net/problem/17615)
   - [[BOJ]2531_회전 초밥](https://www.acmicpc.net/problem/2531)
   - [[BOJ]1522_문자열 교환](https://www.acmicpc.net/problem/1522)
