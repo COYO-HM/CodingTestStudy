@@ -91,6 +91,7 @@
   - [[BOJ]17484_진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484)
   - [[BOJ]1515_수 이어 쓰기](https://www.acmicpc.net/problem/1515)
   - [[BOJ]2304_창고 다각형](https://www.acmicpc.net/problem/2304)
+  - [[BOJ]2531_회전 초밥](https://www.acmicpc.net/problem/2531)
   
 </details>
 
@@ -230,7 +231,6 @@
   <summary> 📁 𝐁𝐞𝐟𝐨𝐫𝐞 ˚˖𓍢ִִ໋🌊🦈˚˖𓍢ִ✧˚. </summary>
   <br>
 
-  - [[BOJ]2531_회전 초밥](https://www.acmicpc.net/problem/2531)
   - [[BOJ]1522_문자열 교환](https://www.acmicpc.net/problem/1522)
   
   
