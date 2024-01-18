@@ -103,7 +103,8 @@
   - [[BOJ]19941_햄버거 분배](https://www.acmicpc.net/problem/19941)
   - [[BOJ]20310_타노스](https://www.acmicpc.net/problem/20310)
   - [[BOJ]11501_주식](https://www.acmicpc.net/problem/11501)
-  
+  - [[BOJ]17615_볼 모으기](https://www.acmicpc.net/problem/17615)  
+
 </details>
 
 <details>
@@ -229,7 +230,6 @@
   <summary> 📁 𝐁𝐞𝐟𝐨𝐫𝐞 ˚˖𓍢ִִ໋🌊🦈˚˖𓍢ִ✧˚. </summary>
   <br>
 
-  - [[BOJ]17615_볼 모으기](https://www.acmicpc.net/problem/17615)
   - [[BOJ]2531_회전 초밥](https://www.acmicpc.net/problem/2531)
   - [[BOJ]1522_문자열 교환](https://www.acmicpc.net/problem/1522)
   
