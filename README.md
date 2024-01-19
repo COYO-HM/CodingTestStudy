@@ -213,6 +213,14 @@
 </details>
 
 <details>
+  <summary>📂 Sliding Window </summary>
+  <br>
+
+  - [[BOJ]1522_문자열 교환](https://www.acmicpc.net/problem/1522)
+    
+</details>
+
+<details>
   <summary>📂 삼성 𝐒𝐖 역량 테스트 기출 문제 </summary>
   <br>
 
@@ -231,7 +239,7 @@
   <summary> 📁 𝐁𝐞𝐟𝐨𝐫𝐞 ˚˖𓍢ִִ໋🌊🦈˚˖𓍢ִ✧˚. </summary>
   <br>
 
-  - [[BOJ]1522_문자열 교환](https://www.acmicpc.net/problem/1522)
+
   
   
 </details>
