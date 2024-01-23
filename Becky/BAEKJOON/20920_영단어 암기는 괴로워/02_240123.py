@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/20920
-# 10:56-
+# 10:56-11:13
 import sys
 
 N, M = map(int, input().split())
