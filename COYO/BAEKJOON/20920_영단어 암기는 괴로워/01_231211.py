@@ -1,6 +1,8 @@
 # https://www.acmicpc.net/problem/20920
 # 0:20:00
+
 import sys
+
 input = sys.stdin.readline
 N, M = map(int, input().split())
 words_cnt = {}
@@ -22,7 +24,7 @@ for w in words_cnt.keys():
     cnt[words_cnt[w]].append(w)
 answer = []
 for i in range(max_cnt, -1, -1):
-    words = sorted(cnt[i], key=lambda x:[-len(x), x])
+    words = sorted(cnt[i], key=lambda x: [-len(x), x])
     answer.extend(words)
 
 for w in answer:
