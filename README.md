@@ -24,7 +24,7 @@
   <br>
 
 - [[PRO]43164여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)
-- [[PRO][카카오 인턴]67259_경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)
+- [[PRO]67259_경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)
 - [[BOJ]17086_아기 상어 2](https://www.acmicpc.net/problem/17086)
 - [[PRO]86971_전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
 - [[PRO]81302_거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
@@ -245,7 +245,7 @@
 | 13305	 주유소              | 1/22  | 1/22 |
 | 20920	 영단어 암기는 괴로워      | 1/23  | 1/24 |
 | 2512	 예산                | 1/24  | 1/24 |
-| 21921	 블로그              |       |      |
+| 21921	 블로그              | 1/25  |      |
 | 1515	 수 이어 쓰기           |       |      |
 | 19941	 햄버거 분배           |       |      |
 | 17484	 진우의 달 여행 (Small) |       |      |
