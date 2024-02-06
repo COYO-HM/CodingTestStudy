@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/2607
-# 11:31-
+# 11:31-12:04
 N = int(input())
 ans = 0
 first_word = list(input())
