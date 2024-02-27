@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/1138
-# 14:
+# 14:35-15:00
 N = int(input())
 people = list(map(int, input().split()))
 ans = [-1] * N
