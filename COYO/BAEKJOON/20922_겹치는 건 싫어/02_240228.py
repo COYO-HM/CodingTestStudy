@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/20922
-# 2:01:51
+# 0:09:07
 
 import sys
 
