@@ -6,7 +6,6 @@ import sys
 input = sys.stdin.readline
 n, d = map(int, input().split())
 roads = []
-INF = int(10001)
 
 for _ in range(n):
     a, b, c = map(int, input().split())
