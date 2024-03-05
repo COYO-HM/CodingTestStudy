@@ -1,5 +1,6 @@
 # https://www.acmicpc.net/problem/14940
-# 23:25-
+# result 안 만들고 graph로만 계산하면 틀림
+# 23:25-11:51
 import sys
 from collections import deque
 
