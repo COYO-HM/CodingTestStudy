@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/5972
-# 16:24-
+# 16:24-17:25
 import heapq
 
 
