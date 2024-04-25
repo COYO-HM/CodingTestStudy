@@ -245,7 +245,6 @@
 - [[BOJ]14719_빗물](https://www.acmicpc.net/problem/14719)
 - [[BOJ]5972_택배 배송](https://www.acmicpc.net/problem/5972)
 - [[BOJ]2467_용액](https://www.acmicpc.net/problem/2467)
-  
 - [[BOJ]7682_틱택토](https://www.acmicpc.net/problem/7682)
 - [[BOJ]2668_숫자고르기](https://www.acmicpc.net/problem/2668)
 - [[BOJ]1863_스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)
