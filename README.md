@@ -38,6 +38,8 @@
 - [[BOJ]6593_상범 빌딩](https://www.acmicpc.net/problem/6593)
 - [[BOJ]1260_DFS와 BFS](https://www.acmicpc.net/problem/1260)
 - [[BOJ]14940_쉬운 최단거리](https://www.acmicpc.net/problem/14940)
+- [[BOJ]13549_숨바꼭질 3](https://www.acmicpc.net/problem/13549)
+- [[BOJ]16234_인구 이동](https://www.acmicpc.net/problem/16234)
 
 </details>
 
@@ -89,6 +91,7 @@
 - [[BOJ]1515_수 이어 쓰기](https://www.acmicpc.net/problem/1515)
 - [[BOJ]2304_창고 다각형](https://www.acmicpc.net/problem/2304)
 - [[BOJ]2531_회전 초밥](https://www.acmicpc.net/problem/2531)
+- [[BOJ]12919_A와 B 2](https://www.acmicpc.net/problem/12919)
 
 </details>
 
@@ -102,6 +105,7 @@
 - [[BOJ]20310_타노스](https://www.acmicpc.net/problem/20310)
 - [[BOJ]11501_주식](https://www.acmicpc.net/problem/11501)
 - [[BOJ]17615_볼 모으기](https://www.acmicpc.net/problem/17615)
+- [[BOJ]2138_전구와 스위치](https://www.acmicpc.net/problem/2138)
 
 </details>
 
@@ -161,6 +165,7 @@
 - [[BOJ]2164_카드2](https://www.acmicpc.net/problem/2164)
 - [[BOJ]1927_최소 힙](https://www.acmicpc.net/problem/1927)
 - [[BOJ]1406_에디터](https://www.acmicpc.net/problem/1406)
+- [[BOJ]2493_탑](https://www.acmicpc.net/problem/2493)
 
 </details>
 
@@ -212,6 +217,7 @@
   <br>
 
 - [[BOJ]1522_문자열 교환](https://www.acmicpc.net/problem/1522)
+- [[BOJ]20437_문자열 게임 2](https://www.acmicpc.net/problem/20437)
 
 </details>
 
@@ -228,6 +234,7 @@
 - [[BOJ]21608_상어 초등학교](https://www.acmicpc.net/problem/21608)
 - [[BOJ]21610_마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)
 - [[BOJ]3190_뱀](https://www.acmicpc.net/problem/3190)
+- [[BOJ]20055_컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)
 
 </details>
 
@@ -235,16 +242,20 @@
   <summary> 📁 𝐁𝐞𝐟𝐨𝐫𝐞 ˚˖𓍢ִִ໋🌊🦈˚˖𓍢ִ✧˚. </summary>
   <br>
 
-- [[BOJ]13549_숨바꼭질 3](https://www.acmicpc.net/problem/13549)
-- [[BOJ]12919_A와 B 2](https://www.acmicpc.net/problem/12919)
-- [[BOJ]20055_컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)
-- [[BOJ]20437_문자열 게임 2](https://www.acmicpc.net/problem/20437)
-- [[BOJ]16234_인구 이동](https://www.acmicpc.net/problem/16234)
-- [[BOJ]2493_탑](https://www.acmicpc.net/problem/2493)
 - [[BOJ]14719_빗물](https://www.acmicpc.net/problem/14719)
 - [[BOJ]5972_택배 배송](https://www.acmicpc.net/problem/5972)
 - [[BOJ]2467_용액](https://www.acmicpc.net/problem/2467)
-- [[BOJ]2138_전구와 스위치](https://www.acmicpc.net/problem/2138)
+  
+- [[BOJ]7682_틱택토](https://www.acmicpc.net/problem/7682)
+- [[BOJ]2668_숫자고르기](https://www.acmicpc.net/problem/2668)
+- [[BOJ]1863_스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)
+- [[BOJ]22251_빌런 호석](https://www.acmicpc.net/problem/22251)
+- [[BOJ]7490_0 만들기](https://www.acmicpc.net/problem/7490)
+- [[BOJ]4485_녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)
+- [[BOJ]1253_좋다](https://www.acmicpc.net/problem/1253)
+- [[BOJ]1806_부분합](https://www.acmicpc.net/problem/1806)
+- [[BOJ]1987_알파벳](https://www.acmicpc.net/problem/1987)
+- [[BOJ]2110_공유기 설치](https://www.acmicpc.net/problem/2110)
 
 
 
