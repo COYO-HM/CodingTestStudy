@@ -12,7 +12,8 @@ for i in range(N):
     l, r = 0, N - 1
 
     while l < r:
-        if lst[l] + lst[r] == target:
+        s = lst[l] + lst[r]
+        if s == target:
             if l == i:
                 l += 1
             elif r == i:
@@ -20,9 +21,9 @@ for i in range(N):
             else:
                 cnt += 1
                 break
-        elif lst[l] + lst[r] > target:
+        elif s > target:
             r -= 1
-        elif lst[l] + lst[r] < target:
+        elif s < target:
             l += 1
 
 print(cnt)
